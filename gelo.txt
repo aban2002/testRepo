@@ -1,2 +1,3 @@
 test from gelo
 test from browser
+add to test jenkins auto build

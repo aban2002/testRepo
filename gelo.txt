@@ -1,3 +1,5 @@
 test from gelo
 test from browser
 add to test jenkins auto build
+add to create tag and merge to master
+add to create another tag to merge to stream2
